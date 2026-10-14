@@ -1,5 +1,4 @@
 
-
 /*
 O fall-through foi mais vantajoso nos grupos de serviços e prioridades,
 pois permitiu compartilhar ações sem repetir os mesmos comandos.
