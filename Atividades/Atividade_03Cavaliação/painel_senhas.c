@@ -1,4 +1,3 @@
-
 /*
 Respostas teoricas:
 O menu usa do-while porque precisa aparecer pelo menos uma vez antes de verificar
